@@ -1,3 +1,4 @@
+//reverse star pattern
 #include <stdio.h>
 
 int main() {
