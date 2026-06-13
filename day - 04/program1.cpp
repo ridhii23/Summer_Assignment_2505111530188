@@ -10,13 +10,12 @@ int main() {
 
     newterm = a + b;
 
- 
     while (newterm <= n) {
         printf("%d ", newterm);
         a = b;
         b = newterm;
         newterm = a + b;
     }
- 
+
     return 0;
 }
