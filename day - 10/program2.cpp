@@ -1,4 +1,4 @@
-//code to print star pyramid 
+//code to print reverse star pyramid 
 #include <stdio.h>
 
 int main() {
